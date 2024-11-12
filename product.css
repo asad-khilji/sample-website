@@ -1,0 +1,7 @@
+.product-details {
+    width: 300px;
+    margin: 20px;
+}
+.product-details img {
+    max-width: 100%;
+}
